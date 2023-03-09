@@ -1,0 +1,5 @@
+﻿  UI.cpp
+C:\Users\user\OneDrive\Desktop\OOP 2022\Bakery_Clara\Bakery_Clara\UI.cpp(129,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Desktop\OOP 2022\Bakery_Clara\Bakery_Clara\UI.cpp(129,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\OneDrive\Desktop\OOP 2022\Bakery_Clara\Bakery_Clara\UI.cpp(157,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Bakery_Clara.vcxproj -> C:\Users\user\OneDrive\Desktop\OOP 2022\Bakery_Clara\x64\Debug\Bakery_Clara.exe
